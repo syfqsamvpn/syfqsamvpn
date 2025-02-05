@@ -30,9 +30,7 @@ I'm a passionate developer working on projects like [samvpn](https://github.com/
 </p>
 
 ## 📫 Get in Touch
-- **Email:** youremail@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** syafiqpro1@gmail.com
 
 ---
 
